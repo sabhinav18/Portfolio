@@ -268,3 +268,5 @@ export const Particles = ({
     </div>
   );
 };
+
+export default Particles;
